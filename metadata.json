@@ -1,0 +1,7 @@
+{
+  "name": "Dhruvesh Raj Portfolio",
+  "description": "Personal portfolio of Dhruvesh Raj featuring Python projects, Sim Racing, Rocketry, and a Voice AI Agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
